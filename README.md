@@ -10,7 +10,7 @@ top preview
 ![top](https://github.com/savolla/tennis-ball-throwing-machine/blob/master/pics/top.png)
 
 side preview
-![top](https://github.com/savolla/tennis-ball-throwing-machine/blob/master/pics/side.png)
+![sides](https://github.com/savolla/tennis-ball-throwing-machine/blob/master/pics/sides.png)
 
 profile preview
 ![top](https://github.com/savolla/tennis-ball-throwing-machine/blob/master/pics/profile.png)
