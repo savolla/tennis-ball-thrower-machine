@@ -9,8 +9,8 @@ front preview
 top preview
 ![top](https://github.com/savolla/tennis-ball-throwing-machine/blob/master/pics/top.png)
 
-bottom preview
-![top](https://github.com/savolla/tennis-ball-throwing-machine/blob/master/pics/bottom.png)
+side preview
+![top](https://github.com/savolla/tennis-ball-throwing-machine/blob/master/pics/side.png)
 
 profile preview
 ![top](https://github.com/savolla/tennis-ball-throwing-machine/blob/master/pics/profile.png)
